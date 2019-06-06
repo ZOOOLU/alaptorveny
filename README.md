@@ -542,8 +542,8 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 > *12. cikk*  
 
-(1) Az Alaptörvény e módosítása - a (2) és (3) bekezdésben meghatározott kivétellel - a kihirdetését követő napon lép hatályba. 
-(2) A köztársasági elnöki tisztség összeegyeztethetetlen minden más állami, társadalmi, gazdasági és politikai tisztséggel vagy megbízatással. A köztársasági elnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a szerzői jogi védelem alá eső tevékenység kivételével – díjazást nem fogadhat el. A 6. cikk (2) bekezdése 2018. október 15-én lép hatályba. 
+(1) A köztársasági elnök személye sérthetetlen. 
+(2) A köztársasági elnöki tisztség összeegyeztethetetlen minden más állami, társadalmi, gazdasági és politikai tisztséggel vagy    megbízatással. A köztársasági elnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért–a szerzői jogi védelem alá eső tevékenység kivételével–díjazást nem fogadhat el. 
 (3) A köztársasági elnök megbízatása megszűnik  
 &nbsp;&nbsp;&nbsp;&nbsp;a) megbízatási idejének lejártával;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) halálával;  
@@ -551,10 +551,9 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;d) ha a megválasztásához szükséges feltételek már nem állnak fenn;  
 &nbsp;&nbsp;&nbsp;&nbsp;e) összeférhetetlenség kimondásával;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) lemondásával;  
-&nbsp;&nbsp;&nbsp;&nbsp;g) a köztársasági elnöki tisztségtől való megfosztással.(3) A 8. cikk 2019. január 1-jén lép hatályba.
+&nbsp;&nbsp;&nbsp;&nbsp;g) a köztársasági elnöki tisztségtől való megfosztással.
 (4) A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz. 
-(4) Az Alaptörvény e módosítását az Országgyűlés az Alaptörvény 1. cikk (2) bekezdés a) pontja és S) cikk (2) bekezdése alapján fogadja el. 
-(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg. (5) Az Alaptörvény egységes szerkezetű szövegét az Alaptörvény e módosításának hatálybalépését követően haladéktalanul közzé kell tenni a hivatalos lapban. 
+(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg. 
 
 > *13. cikk*  
 
